@@ -1,0 +1,2361 @@
+fileFormatVersion: 2
+guid: 8b34e9036eb349c45bf91957ebfddddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3862521788301445320
+    second: lovebit_0
+  - first:
+      213: -8357144550578079396
+    second: lovebit_1
+  - first:
+      213: 1466187706629625872
+    second: lovebit_2
+  - first:
+      213: 300302229232576585
+    second: lovebit_3
+  - first:
+      213: 5987066357230036434
+    second: lovebit_4
+  - first:
+      213: -2633780532755332669
+    second: lovebit_5
+  - first:
+      213: -8898462526657575054
+    second: lovebit_6
+  - first:
+      213: 5506304164977053762
+    second: lovebit_7
+  - first:
+      213: -766393318976719263
+    second: lovebit_8
+  - first:
+      213: -385773055717459214
+    second: lovebit_9
+  - first:
+      213: -8643872028305168566
+    second: lovebit_10
+  - first:
+      213: 1059580781754019468
+    second: lovebit_11
+  - first:
+      213: 9208512466677562583
+    second: lovebit_12
+  - first:
+      213: -1639956653815670539
+    second: lovebit_13
+  - first:
+      213: 3246821820478506833
+    second: lovebit_14
+  - first:
+      213: 7225927063824936516
+    second: lovebit_15
+  - first:
+      213: 5108673719516042698
+    second: lovebit_16
+  - first:
+      213: -1299231170248939897
+    second: lovebit_17
+  - first:
+      213: -6935360941664743117
+    second: lovebit_18
+  - first:
+      213: 3784321135129878255
+    second: lovebit_19
+  - first:
+      213: -5365902483557824364
+    second: lovebit_20
+  - first:
+      213: -1626806446083019715
+    second: lovebit_21
+  - first:
+      213: -5560034723381819743
+    second: lovebit_22
+  - first:
+      213: -3574725233783086853
+    second: lovebit_23
+  - first:
+      213: 2464869346525084690
+    second: lovebit_24
+  - first:
+      213: -762547334085993328
+    second: lovebit_25
+  - first:
+      213: -7769886754503944068
+    second: lovebit_26
+  - first:
+      213: 5641322413357684402
+    second: lovebit_27
+  - first:
+      213: -3456638186037898372
+    second: lovebit_28
+  - first:
+      213: 8527236719922448610
+    second: lovebit_29
+  - first:
+      213: 7722516729661328042
+    second: lovebit_30
+  - first:
+      213: -1774766461969042854
+    second: lovebit_31
+  - first:
+      213: 2723282650241067882
+    second: lovebit_32
+  - first:
+      213: -8681328992871218075
+    second: lovebit_33
+  - first:
+      213: -4456493136092321959
+    second: lovebit_34
+  - first:
+      213: -8356164666553889598
+    second: lovebit_35
+  - first:
+      213: -5841519058027425881
+    second: lovebit_36
+  - first:
+      213: -6023669492351937922
+    second: lovebit_37
+  - first:
+      213: -3919796627301010116
+    second: lovebit_38
+  - first:
+      213: 6556893822401665427
+    second: lovebit_39
+  - first:
+      213: -9076024160583838354
+    second: lovebit_40
+  - first:
+      213: -6045247875253234083
+    second: lovebit_41
+  - first:
+      213: 8744341850342881225
+    second: lovebit_42
+  - first:
+      213: -1227139162216743019
+    second: lovebit_43
+  - first:
+      213: -5006538056214482466
+    second: lovebit_44
+  - first:
+      213: -5937834099946189702
+    second: lovebit_45
+  - first:
+      213: -2054576054811369284
+    second: lovebit_46
+  - first:
+      213: -1369897167561504591
+    second: lovebit_47
+  - first:
+      213: -4444065634336801194
+    second: lovebit_48
+  - first:
+      213: -6228688965928502079
+    second: lovebit_49
+  - first:
+      213: 2883776904438406866
+    second: lovebit_50
+  - first:
+      213: -8915835062426620293
+    second: lovebit_51
+  - first:
+      213: -4466689832320558821
+    second: lovebit_52
+  - first:
+      213: -3811061369967657706
+    second: lovebit_53
+  - first:
+      213: -460537468396028503
+    second: lovebit_54
+  - first:
+      213: 3198719315833744059
+    second: lovebit_55
+  - first:
+      213: 8342080152418956144
+    second: lovebit_56
+  - first:
+      213: 306302247026619649
+    second: lovebit_57
+  - first:
+      213: -3421386892891986628
+    second: lovebit_58
+  - first:
+      213: 2967874301908218461
+    second: lovebit_59
+  - first:
+      213: 1895714384196853764
+    second: lovebit_60
+  - first:
+      213: -3537124139872316405
+    second: lovebit_61
+  - first:
+      213: 1625809739379063661
+    second: lovebit_62
+  - first:
+      213: 2302489641437328296
+    second: lovebit_63
+  - first:
+      213: -964401253514824816
+    second: lovebit_64
+  - first:
+      213: 216003288812690662
+    second: lovebit_65
+  - first:
+      213: 6282708142360288453
+    second: lovebit_66
+  - first:
+      213: -1329104488825242787
+    second: lovebit_67
+  - first:
+      213: -2038234100700247347
+    second: lovebit_68
+  - first:
+      213: 123659757331100622
+    second: lovebit_69
+  - first:
+      213: -7863567894200736156
+    second: lovebit_70
+  - first:
+      213: -4122101039578828622
+    second: lovebit_71
+  - first:
+      213: -2990986096031962691
+    second: lovebit_72
+  - first:
+      213: 8351529434590457813
+    second: lovebit_73
+  - first:
+      213: -201173339056858397
+    second: lovebit_74
+  - first:
+      213: -9150572357287057383
+    second: lovebit_75
+  - first:
+      213: -3384085200019453575
+    second: lovebit_76
+  - first:
+      213: -2402657045472377475
+    second: lovebit_77
+  - first:
+      213: 240426869102583910
+    second: lovebit_78
+  - first:
+      213: 2477185249776957920
+    second: lovebit_79
+  - first:
+      213: -4071902480128119551
+    second: lovebit_80
+  - first:
+      213: -2306230350246801287
+    second: lovebit_81
+  - first:
+      213: -775570941045993736
+    second: lovebit_82
+  - first:
+      213: -6385085201547116922
+    second: lovebit_83
+  - first:
+      213: 3707006328433676774
+    second: lovebit_84
+  - first:
+      213: -8436411255933088616
+    second: lovebit_85
+  - first:
+      213: -4025661776593124417
+    second: lovebit_86
+  - first:
+      213: -8037383079169132979
+    second: lovebit_87
+  - first:
+      213: 4070313363724113982
+    second: lovebit_88
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lovebit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c80ae81a1f6a9530800000000000000
+      internalID: 3862521788301445320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59b33e2f45750c80800000000000000
+      internalID: -8357144550578079396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01814b373f1f85410800000000000000
+      internalID: 1466187706629625872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486aa25943ea2400800000000000000
+      internalID: 300302229232576585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5636d8125561350800000000000000
+      internalID: 5987066357230036434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c187c05f8ee27bd0800000000000000
+      internalID: -2633780532755332669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27743736a7f428480800000000000000
+      internalID: -8898462526657575054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24016b2e6725a6c40800000000000000
+      internalID: 5506304164977053762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166f82046593d55f0800000000000000
+      internalID: -766393318976719263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3b02237575aaf0800000000000000
+      internalID: -385773055717459214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a476fecff2cca0880800000000000000
+      internalID: -8643872028305168566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e674b6b1364be00800000000000000
+      internalID: 1059580781754019468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc7216bc453bcf70800000000000000
+      internalID: 9208512466677562583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8574abc14bd39e0800000000000000
+      internalID: -1639956653815670539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157cb9a4e370f0d20800000000000000
+      internalID: 3246821820478506833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eaa244166a74460800000000000000
+      internalID: 7225927063824936516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac590255ea7a5e640800000000000000
+      internalID: 5108673719516042698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7866230622438fde0800000000000000
+      internalID: -1299231170248939897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33154faf7f5a0cf90800000000000000
+      internalID: -6935360941664743117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee5b6fa50c948430800000000000000
+      internalID: 3784321135129878255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4984628fe1c7885b0800000000000000
+      internalID: -5365902483557824364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ce7ee082c6c69e0800000000000000
+      internalID: -1626806446083019715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a64dfd90e9c6d2b0800000000000000
+      internalID: -5560034723381819743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0ebbee656046ec0800000000000000
+      internalID: -3574725233783086853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c70697c99f43220800000000000000
+      internalID: 2464869346525084690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c12636d33ea65f0800000000000000
+      internalID: -762547334085993328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7897c4d921db2490800000000000000
+      internalID: -7769886754503944068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b652af88d00a4e40800000000000000
+      internalID: 5641322413357684402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73192442ed8700d0800000000000000
+      internalID: -3456638186037898372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 228
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e805a61e94d65670800000000000000
+      internalID: 8527236719922448610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 242
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa897bcc04eb2b60800000000000000
+      internalID: 7722516729661328042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 233
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52fe035e43ce57e0800000000000000
+      internalID: -1774766461969042854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b6a9e442b0bc520800000000000000
+      internalID: 2723282650241067882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5648c91d649b58780800000000000000
+      internalID: -8681328992871218075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_34
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957204faa1b5722c0800000000000000
+      internalID: -4456493136092321959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc82653280f80c80800000000000000
+      internalID: -8356164666553889598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc99dcd51ceeea0800000000000000
+      internalID: -5841519058027425881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e725100f280a76ca0800000000000000
+      internalID: -6023669492351937922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f2f54cb51a99c0800000000000000
+      internalID: -3919796627301010116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399543a0134cefa50800000000000000
+      internalID: 6556893822401665427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65998fdc1c7b0280800000000000000
+      internalID: -9076024160583838354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5698582617fa1ca0800000000000000
+      internalID: -6045247875253234083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f44855942a5970800000000000000
+      internalID: 8744341850342881225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb9120f6358fee0800000000000000
+      internalID: -1227139162216743019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed17cd4e924358ab0800000000000000
+      internalID: -5006538056214482466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c81899853989da0800000000000000
+      internalID: -5937834099946189702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e1f8b6fdac73e0800000000000000
+      internalID: -2054576054811369284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8ceacb8c52dfce0800000000000000
+      internalID: -1369897167561504591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e75dae9d18352c0800000000000000
+      internalID: -4444065634336801194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccbf61f2604f89a0800000000000000
+      internalID: -6228688965928502079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ded680d0db350820800000000000000
+      internalID: 2883776904438406866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea614bf37944480800000000000000
+      internalID: -8915835062426620293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191fa653412302c0800000000000000
+      internalID: -4466689832320558821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3dd930e36c1bc0800000000000000
+      internalID: -3811061369967657706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad3f7ecc97db99f0800000000000000
+      internalID: -460537468396028503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba637c2542246c20800000000000000
+      internalID: 3198719315833744059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073b4cc43b505c370800000000000000
+      internalID: 8342080152418956144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105fce35544304400800000000000000
+      internalID: 306302247026619649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35eef98fbac480d0800000000000000
+      internalID: -3421386892891986628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ff3ff3f1003920800000000000000
+      internalID: 2967874301908218461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_60
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 214
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e6a1403eee4a10800000000000000
+      internalID: 1895714384196853764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b049374d55c99eec0800000000000000
+      internalID: -3537124139872316405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 214
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3f041859009610800000000000000
+      internalID: 1625809739379063661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_63
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 200
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a373e8312614ff10800000000000000
+      internalID: 2302489641437328296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093be476b22cd92f0800000000000000
+      internalID: -964401253514824816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec1ff3c8d56ff200800000000000000
+      internalID: 216003288812690662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 186
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccd6dca4c9a03750800000000000000
+      internalID: 6282708142360288453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb13262821e8de0800000000000000
+      internalID: -1329104488825242787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_68
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 186
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca8caa62ecb6b3e0800000000000000
+      internalID: -2038234100700247347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 186
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33bb4e4e357b100800000000000000
+      internalID: 123659757331100622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 186
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466aff6c9aefed290800000000000000
+      internalID: -7863567894200736156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_71
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 186
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0b2afb1fa5bc6c0800000000000000
+      internalID: -4122101039578828622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 186
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9e1e91ef1ed76d0800000000000000
+      internalID: -2990986096031962691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 186
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfabffb5c796e370800000000000000
+      internalID: 8351529434590457813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 186
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea9c3bf9e9453df0800000000000000
+      internalID: -201173339056858397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_75
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 186
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91865604ce2a20180800000000000000
+      internalID: -9150572357287057383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9790f23b0705901d0800000000000000
+      internalID: -3384085200019453575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75878f952c08aed0800000000000000
+      internalID: -2402657045472377475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 191
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a15fa6fa265300800000000000000
+      internalID: 240426869102583910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 186
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9fac72cdab06220800000000000000
+      internalID: 2477185249776957920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 186
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d6ee7a442bd77c0800000000000000
+      internalID: -4071902480128119551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_81
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 186
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970905327bf9effd0800000000000000
+      internalID: -2306230350246801287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe86d8965e9c35f0800000000000000
+      internalID: -775570941045993736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3e2db6de9367a0800000000000000
+      internalID: -6385085201547116922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11a6a7d9ee17330800000000000000
+      internalID: 3707006328433676774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_85
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 194
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c400729a8dbea80800000000000000
+      internalID: -8436411255933088616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38c4c61f9f128c0800000000000000
+      internalID: -4025661776593124417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4673626caa757090800000000000000
+      internalID: -8037383079169132979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lovebit_88
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e381d495078ac7830800000000000000
+      internalID: 4070313363724113982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lovebit_0: 3862521788301445320
+      lovebit_1: -8357144550578079396
+      lovebit_10: -8643872028305168566
+      lovebit_11: 1059580781754019468
+      lovebit_12: 9208512466677562583
+      lovebit_13: -1639956653815670539
+      lovebit_14: 3246821820478506833
+      lovebit_15: 7225927063824936516
+      lovebit_16: 5108673719516042698
+      lovebit_17: -1299231170248939897
+      lovebit_18: -6935360941664743117
+      lovebit_19: 3784321135129878255
+      lovebit_2: 1466187706629625872
+      lovebit_20: -5365902483557824364
+      lovebit_21: -1626806446083019715
+      lovebit_22: -5560034723381819743
+      lovebit_23: -3574725233783086853
+      lovebit_24: 2464869346525084690
+      lovebit_25: -762547334085993328
+      lovebit_26: -7769886754503944068
+      lovebit_27: 5641322413357684402
+      lovebit_28: -3456638186037898372
+      lovebit_29: 8527236719922448610
+      lovebit_3: 300302229232576585
+      lovebit_30: 7722516729661328042
+      lovebit_31: -1774766461969042854
+      lovebit_32: 2723282650241067882
+      lovebit_33: -8681328992871218075
+      lovebit_34: -4456493136092321959
+      lovebit_35: -8356164666553889598
+      lovebit_36: -5841519058027425881
+      lovebit_37: -6023669492351937922
+      lovebit_38: -3919796627301010116
+      lovebit_39: 6556893822401665427
+      lovebit_4: 5987066357230036434
+      lovebit_40: -9076024160583838354
+      lovebit_41: -6045247875253234083
+      lovebit_42: 8744341850342881225
+      lovebit_43: -1227139162216743019
+      lovebit_44: -5006538056214482466
+      lovebit_45: -5937834099946189702
+      lovebit_46: -2054576054811369284
+      lovebit_47: -1369897167561504591
+      lovebit_48: -4444065634336801194
+      lovebit_49: -6228688965928502079
+      lovebit_5: -2633780532755332669
+      lovebit_50: 2883776904438406866
+      lovebit_51: -8915835062426620293
+      lovebit_52: -4466689832320558821
+      lovebit_53: -3811061369967657706
+      lovebit_54: -460537468396028503
+      lovebit_55: 3198719315833744059
+      lovebit_56: 8342080152418956144
+      lovebit_57: 306302247026619649
+      lovebit_58: -3421386892891986628
+      lovebit_59: 2967874301908218461
+      lovebit_6: -8898462526657575054
+      lovebit_60: 1895714384196853764
+      lovebit_61: -3537124139872316405
+      lovebit_62: 1625809739379063661
+      lovebit_63: 2302489641437328296
+      lovebit_64: -964401253514824816
+      lovebit_65: 216003288812690662
+      lovebit_66: 6282708142360288453
+      lovebit_67: -1329104488825242787
+      lovebit_68: -2038234100700247347
+      lovebit_69: 123659757331100622
+      lovebit_7: 5506304164977053762
+      lovebit_70: -7863567894200736156
+      lovebit_71: -4122101039578828622
+      lovebit_72: -2990986096031962691
+      lovebit_73: 8351529434590457813
+      lovebit_74: -201173339056858397
+      lovebit_75: -9150572357287057383
+      lovebit_76: -3384085200019453575
+      lovebit_77: -2402657045472377475
+      lovebit_78: 240426869102583910
+      lovebit_79: 2477185249776957920
+      lovebit_8: -766393318976719263
+      lovebit_80: -4071902480128119551
+      lovebit_81: -2306230350246801287
+      lovebit_82: -775570941045993736
+      lovebit_83: -6385085201547116922
+      lovebit_84: 3707006328433676774
+      lovebit_85: -8436411255933088616
+      lovebit_86: -4025661776593124417
+      lovebit_87: -8037383079169132979
+      lovebit_88: 4070313363724113982
+      lovebit_9: -385773055717459214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

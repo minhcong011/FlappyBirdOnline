@@ -1,0 +1,21 @@
+hset server roomCount 0
+set maxPlayerPerRoom 30
+
+95.216.25.231:3697
+pass ForUd1dzjgiD3Fw
+
+có mấy command a đổi tên đi rồi
+rename-command FLUSHDB ""
+rename-command FLUSHALL ""
+rename-command KEYS GBw3_KEYS
+rename-command PEXPIRE GBw3_PEXPIRE
+rename-command DEL GBw3_DEL
+rename-command CONFIG GBw3_CONFIG
+rename-command SHUTDOWN GBw3_SHUTDOWN
+rename-command BGREWRITEAOF GBw3_BGREWRITEAOF
+rename-command BGSAVE GBw3_BGSAVE
+rename-command SAVE GBw3_SAVE
+rename-command SPOP GBw3_SPOP
+rename-command SREM GBw3_SREM
+rename-command RENAME GBw3_RENAME
+rename-command DEBUG ""

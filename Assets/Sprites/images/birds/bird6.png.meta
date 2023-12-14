@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 414fbab3a95117847888362b786ebbbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5378322060854621890
+    second: bird6_0
+  - first:
+      213: 8236413389433702979
+    second: bird6_1
+  - first:
+      213: 6935429659642708491
+    second: bird6_2
+  - first:
+      213: -3988690410040636
+    second: bird6_3
+  - first:
+      213: -5555649945665669577
+    second: bird6_4
+  - first:
+      213: 1691417216738894482
+    second: bird6_5
+  - first:
+      213: -7312431118824451893
+    second: bird6_6
+  - first:
+      213: -7199459130790319445
+    second: bird6_7
+  - first:
+      213: 6387896745767134925
+    second: bird6_8
+  - first:
+      213: 4867039179412046156
+    second: bird6_9
+  - first:
+      213: 5169787756230879589
+    second: bird6_10
+  - first:
+      213: 6606503414964032513
+    second: bird6_11
+  - first:
+      213: 8538754134516930279
+    second: bird6_12
+  - first:
+      213: -332635919586422656
+    second: bird6_13
+  - first:
+      213: 4468499603931110738
+    second: bird6_14
+  - first:
+      213: -6786959453065626044
+    second: bird6_15
+  - first:
+      213: -8489765568016965073
+    second: bird6_16
+  - first:
+      213: 5525011182404323496
+    second: bird6_17
+  - first:
+      213: -7240560515886574577
+    second: bird6_18
+  - first:
+      213: 6349246749661527343
+    second: bird6_19
+  - first:
+      213: -7487313935825053103
+    second: bird6_20
+  - first:
+      213: 1688141220117400501
+    second: bird6_21
+  - first:
+      213: -987514517930776827
+    second: bird6_22
+  - first:
+      213: -105632888062114078
+    second: bird6_23
+  - first:
+      213: -7526297742927855608
+    second: bird6_24
+  - first:
+      213: -7063415019160634828
+    second: bird6_25
+  - first:
+      213: 750217034036104146
+    second: bird6_26
+  - first:
+      213: 4425316794260473304
+    second: bird6_27
+  - first:
+      213: 7766717567577030404
+    second: bird6_28
+  - first:
+      213: -2880731613467924130
+    second: bird6_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e390d1bc49c5c55b0800000000000000
+      internalID: -5378322060854621890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a877cd65e9d4270800000000000000
+      internalID: 8236413389433702979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 316
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0246bba7889f3060800000000000000
+      internalID: 6935429659642708491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 253
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29df4ae44d1fff0800000000000000
+      internalID: -3988690410040636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 316
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736fd2c3fcd56e2b0800000000000000
+      internalID: -5555649945665669577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 253
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a3b24ffe197710800000000000000
+      internalID: 1691417216738894482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 316
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d4fde3a6058a90800000000000000
+      internalID: -7312431118824451893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 253
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaec4e9012661c90800000000000000
+      internalID: -7199459130790319445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 316
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6e259ee3e56a850800000000000000
+      internalID: 6387896745767134925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 253
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4183c4d8523b8340800000000000000
+      internalID: 4867039179412046156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5692e46d296ceb740800000000000000
+      internalID: 5169787756230879589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10416586ad30fab50800000000000000
+      internalID: 6606503414964032513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 190
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6974425afbf7670800000000000000
+      internalID: 8538754134516930279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 127
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080148db46d326bf0800000000000000
+      internalID: -332635919586422656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 190
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d9943f6bc430e30800000000000000
+      internalID: 4468499603931110738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 127
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e3b071650efc1a0800000000000000
+      internalID: -6786959453065626044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 190
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a104523b4e2a80800000000000000
+      internalID: -8489765568016965073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 127
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8454bc568ccac40800000000000000
+      internalID: 5525011182404323496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 190
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049cdba29c548b90800000000000000
+      internalID: -7240560515886574577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 127
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df0e0774e0d1850800000000000000
+      internalID: 6349246749661527343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad05515a7b71890800000000000000
+      internalID: -7487313935825053103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcacbde7b7d6710800000000000000
+      internalID: 1688141220117400501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e13c27c4ab42f0800000000000000
+      internalID: -987514517930776827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6857ea277b88ef0800000000000000
+      internalID: -105632888062114078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80006fe24183d8790800000000000000
+      internalID: -7526297742927855608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 64
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a75c1b675b9fd90800000000000000
+      internalID: -7063415019160634828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db4b2aea6e496a00800000000000000
+      internalID: 750217034036104146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d547749d22e96d30800000000000000
+      internalID: 4425316794260473304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff6365a7ce8cb60800000000000000
+      internalID: 7766717567577030404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird6_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 64
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59a10e3cd59508d0800000000000000
+      internalID: -2880731613467924130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bird6_0: -5378322060854621890
+      bird6_1: 8236413389433702979
+      bird6_10: 5169787756230879589
+      bird6_11: 6606503414964032513
+      bird6_12: 8538754134516930279
+      bird6_13: -332635919586422656
+      bird6_14: 4468499603931110738
+      bird6_15: -6786959453065626044
+      bird6_16: -8489765568016965073
+      bird6_17: 5525011182404323496
+      bird6_18: -7240560515886574577
+      bird6_19: 6349246749661527343
+      bird6_2: 6935429659642708491
+      bird6_20: -7487313935825053103
+      bird6_21: 1688141220117400501
+      bird6_22: -987514517930776827
+      bird6_23: -105632888062114078
+      bird6_24: -7526297742927855608
+      bird6_25: -7063415019160634828
+      bird6_26: 750217034036104146
+      bird6_27: 4425316794260473304
+      bird6_28: 7766717567577030404
+      bird6_29: -2880731613467924130
+      bird6_3: -3988690410040636
+      bird6_4: -5555649945665669577
+      bird6_5: 1691417216738894482
+      bird6_6: -7312431118824451893
+      bird6_7: -7199459130790319445
+      bird6_8: 6387896745767134925
+      bird6_9: 4867039179412046156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
